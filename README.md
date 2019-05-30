@@ -54,7 +54,7 @@
 
 ### 미세먼지 데이터
 -통합대기환경지수 변수 생성하기!
-(https://www.airkorea.or.kr/web/khaiInfo?pMENU_NO=129)
+[link](https://www.airkorea.or.kr/web/khaiInfo?pMENU_NO=129)
 
 
 
