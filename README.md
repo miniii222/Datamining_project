@@ -52,6 +52,10 @@
 - rain : 강수량(mm)
 - snow : 적설량(cm)
 
+### 미세먼지 데이터
+-통합대기환경지수 변수 생성하기!
+(https://www.airkorea.or.kr/web/khaiInfo?pMENU_NO=129)
+
 
 
 ## 다음 미팅은 [2019-05-31]
